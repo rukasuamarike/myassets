@@ -1,0 +1,192 @@
+String fillerdata = '''{
+   "value":309817309430.12,
+   "accounts":[
+      {
+         "name":"account1",
+         "value":23924800.8,
+         "positions":[
+            {
+               "name":"fixedIncomeCash",
+               "value":29386298.3
+            },
+            {
+               "name":"equities",
+               "value":13884803082.0,
+               "positions":[
+                  {
+                     "name":"company a",
+                     "shares":90000,
+                     "pricePer":4.72,
+                     "value":424800
+                  },
+                  {
+                     "name":"company b",
+                     "shares":40200,
+                     "pricePer":9.41,
+                     "value":378282
+                  },
+                  {
+                     "name":"company c",
+                     "shares":200000000,
+                     "pricePer":69.42,
+                     "value":13884000000
+                  }
+               ]
+            },
+            {
+               "name":"credit",
+               "value":2500000,
+               "positions":[
+                  {
+                     "name":"Mastercard",
+                     "value":1000000
+                  },
+                  {
+                     "name":"Visa",
+                     "value":1500000
+                  }
+               ]
+            },
+            {
+               "name":"hedgefund",
+               "value":1000000,
+               "positions":[
+                  {
+                     "name":"a corp",
+                     "value":976899
+                  },
+                  {
+                     "name":"b corp",
+                     "value":234234
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"account2",
+         "value":23924800.8,
+         "positions":[
+            {
+               "name":"fixedIncomeCash",
+               "value":29386298.3
+            },
+            {
+               "name":"equities",
+               "value":13884803082.0,
+               "positions":[
+                  {
+                     "name":"company a",
+                     "shares":90000,
+                     "pricePer":4.72,
+                     "value":424800
+                  },
+                  {
+                     "name":"company b",
+                     "shares":40200,
+                     "pricePer":9.41,
+                     "value":378282
+                  },
+                  {
+                     "name":"company c",
+                     "shares":200000000,
+                     "pricePer":69.42,
+                     "value":13884000000
+                  }
+               ]
+            },
+            {
+               "name":"credit",
+               "value":2500000,
+               "positions":[
+                  {
+                     "name":"Mastercard",
+                     "value":1000000
+                  },
+                  {
+                     "name":"Visa",
+                     "value":1500000
+                  }
+               ]
+            },
+            {
+               "name":"hedgefund",
+               "value":1000000,
+               "positions":[
+                  {
+                     "name":"a corp",
+                     "value":976899
+                  },
+                  {
+                     "name":"b corp",
+                     "value":234234
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"account3",
+         "value":23924800.8,
+         "positions":[
+            {
+               "name":"fixedIncomeCash",
+               "value":29386298.3
+            },
+            {
+               "name":"equities",
+               "value":13884803082.0,
+               "positions":[
+                  {
+                     "name":"company a",
+                     "shares":90000,
+                     "pricePer":4.72,
+                     "value":424800
+                  },
+                  {
+                     "name":"company b",
+                     "shares":40200,
+                     "pricePer":9.41,
+                     "value":378282
+                  },
+                  {
+                     "name":"company c",
+                     "shares":200000000,
+                     "pricePer":69.42,
+                     "value":13884000000
+                  }
+               ]
+            },
+            {
+               "name":"credit",
+               "value":2500000,
+               "positions":[
+                  {
+                     "name":"Mastercard",
+                     "value":1000000
+                  },
+                  {
+                     "name":"Visa",
+                     "value":1500000
+                  }
+               ]
+            },
+            {
+               "name":"hedgefund",
+               "value":1000000,
+               "positions":[
+                  {
+                     "name":"a corp",
+                     "value":976899
+                  },
+                  {
+                     "name":"b corp",
+                     "value":234234
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}
+''';
